@@ -9,7 +9,6 @@ I am a backend developer with a strong focus on building scalable and efficient 
 
 * 🌍  I'm based in Almaty, Kazakhstan
 * ✉️  You can contact me at [soltangaziyev@gmail.com](mailto:soltangaziyev@gmail.com)
-* 🧠  I'm learning React
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
